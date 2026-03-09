@@ -1,0 +1,7 @@
+{
+  "name": "Clinique Virtuelle AI",
+  "description": "Simulation de patient et évaluation clinique en temps réel pour étudiants en médecine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
